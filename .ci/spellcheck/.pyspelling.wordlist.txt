@@ -16,6 +16,9 @@ Agentic
 agentic
 ai
 al
+AISE
+AISEClassification
+AISEDetection
 Alibaba
 ALiBi
 AlpacaEval
@@ -76,6 +79,7 @@ bilinear
 biometrics
 BiT
 blockwise
+BLACKBOX
 boolean
 CentOS
 CFG
@@ -390,6 +394,7 @@ Kaiming
 Kalman
 kbps
 KD
+KDE
 keras
 KerasCV
 keypoint
@@ -427,6 +432,7 @@ LibriSpeech
 librispeech
 Lim
 LinearCameraEmbedder
+Lippipeline
 Liu
 LLama
 LLaMa
@@ -436,6 +442,7 @@ llava
 llm
 LLM
 LLMs
+LM
 LMS
 LLMPipeline
 logits
@@ -452,6 +459,7 @@ LVLM
 Lyth
 macOS
 Magika
+masklet
 Mahalanobis
 Mapillary
 Markovian
@@ -524,9 +532,11 @@ nar
 NAS
 natively
 NCE
+Nemo
 NEOX
 NER
 NETP
+Netron
 NeuSpell
 NeXT
 NLP
@@ -630,6 +640,8 @@ PixArt
 PIXART
 PixelShuffleUpsampleNetwork
 pixelwise
+Pixtral
+pixtral
 PIL
 PNDM
 png
@@ -675,6 +687,7 @@ px
 py
 pyannote
 pymodule
+pynim
 PyPI
 Pythia
 pytorch
@@ -965,6 +978,7 @@ WavLM
 WebGL
 WebUI
 WER
+WHITEBOX
 WIKISQL
 wikipedia
 WikiTable
@@ -973,6 +987,7 @@ wikitext
 WIKITQ
 Wofk
 WTQ
+WhisperPipeline
 wuerstchen
 WuerstchenDiffNeXt
 Würstchen
